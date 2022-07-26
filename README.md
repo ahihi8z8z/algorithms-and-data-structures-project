@@ -7,7 +7,8 @@ Bài tập lớn về thuật toán sắp xếp môn ctdl và giải thuât, vi�
 	g++ -g .\main.cpp .\Application.cpp .\CreateInput.cpp .\SortAlgorithm.cpp  -o main
 => sẽ có file thực thi main
 
-- Cách chạy chương trình: ./main [Cách tạo đầu vào] [loại đầu vào] [số phần tử] [thuật toán]
+- Cách chạy chương trình: ./main [cách tạo đầu vào] [loại đầu vào] [số phần tử] [thuật toán]
+
 	+) Cách tạo đầu vào: "file", "create" - chỉ "create" mới cần loại đầu vào số phần tử.
 	+) Loại đầu vào: "random", "duplicated", "nsorted", "sorted", "rsorted".
 	+) Số phần tử : nguyên.
